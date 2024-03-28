@@ -1,0 +1,99 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using static f2.Authenticator;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
+
+
+namespace f2
+{
+    public partial class LogIn : Form
+    {
+        public LogIn()
+        {
+            InitializeComponent();
+        }
+
+        SqlConnection sqlCon;
+        private void LogIn_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                sqlCon = new SqlConnection((@"Data Source=LAB109PC10\SQLEXPRESS; Initial Catalog=YAPMedia; Integrated Security=True;"));
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void button1_MouseClick(object sender, MouseEventArgs e)
+        {
+            string user = usBox.Text;
+            string pass = passBox.Text;
+
+            if (!string.IsNullOrWhiteSpace(user) && !string.IsNullOrWhiteSpace(pass))
+            {
+                User authenticatedUser = DatabaseManager.AuthenticateUser(user, pass);
+
+                if (authenticatedUser != null)
+                {
+                    HomePage welcome = new HomePage(authenticatedUser);
+                    welcome.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    MessageBox.Show("Invalid username or password.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Please enter both username and password.");
+            }
+        }
+
+        private void passBox_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (passBox.Text == "Password")
+            {
+                passBox.Text = "";
+                passBox.ForeColor = Color.Black;
+            }
+        }
+
+        private void usBox_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (usBox.Text == "Username")
+            {
+                usBox.Text = "";
+                usBox.ForeColor = Color.Black;
+            }
+        }
+
+        private void usBox_Validating(object sender, CancelEventArgs e)
+        {
+            if (usBox.Text == string.Empty)
+            {
+                usBox.Text = "Username";
+                usBox.ForeColor = Color.Gray;
+            }
+        }
+
+        private void passBox_Validating(object sender, CancelEventArgs e)
+        {
+            if (passBox.Text == string.Empty)
+            {
+                passBox.Text = "Password";
+                passBox.ForeColor = Color.Gray;
+            }
+        }
+    }
+}
