@@ -1,0 +1,42 @@
+using (SqlConnection cn = new SqlConnection(@"Data Source=LAB109PC10\SQLEXPRESS; Initial Catalog=YAPMedia; Integrated Security=True;"))
+{
+    cn.Open();
+
+    using (SqlCommand cmd = new SqlCommand("SELECT username FROM [User] WHERE username = @username", cn))
+    {
+        cmd.Parameters.AddWithValue("@username", usBox.Text);
+
+        using (SqlDataReader dr = cmd.ExecuteReader())
+        {
+            if (dr.Read())
+            {
+                MessageBox.Show("Username already exists, please try another", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                dr.Close();
+
+                using (SqlCommand cmd2 = new SqlCommand("INSERT INTO [User] (username, password, phoneNumber, email, firstName, lastName, gender, img) VALUES (@username, @password, @phoneNumber, @email, @firstName, @lastName, @gender, NULLIF(CONVERT(varbinary(max), @img), ''))", cn))
+                {
+                    cmd2.Parameters.AddWithValue("@username", usBox.Text);
+                    cmd2.Parameters.AddWithValue("@password", passBox.Text);
+                    cmd2.Parameters.AddWithValue("@phoneNumber", phoneBox.Text);
+                    cmd2.Parameters.AddWithValue("@email", emailBox.Text);
+                    cmd2.Parameters.AddWithValue("@firstName", firstNameBox.Text);
+                    cmd2.Parameters.AddWithValue("@lastName", lastNameBox.Text);
+                    cmd2.Parameters.AddWithValue("@gender", genderBox.Text);
+                    cmd2.Parameters.AddWithValue("@img", ""); // Assuming this is where you'd pass the image data, adjust accordingly
+
+                    cmd2.ExecuteNonQuery();
+
+                    MessageBox.Show("Your Account is created. Please login now.", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    Hide();
+                    LogIn login = new LogIn();
+                    login.Show();
+                }
+            }
+        }
+    }
+    // Close the connection after usage
+    cn.Close();
+}
