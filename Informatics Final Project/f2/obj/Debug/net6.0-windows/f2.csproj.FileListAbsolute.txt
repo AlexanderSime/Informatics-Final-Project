@@ -1,0 +1,124 @@
+H:\IT\f2\f2\bin\Debug\net6.0-windows\f2.exe
+H:\IT\f2\f2\bin\Debug\net6.0-windows\f2.deps.json
+H:\IT\f2\f2\bin\Debug\net6.0-windows\f2.runtimeconfig.json
+H:\IT\f2\f2\bin\Debug\net6.0-windows\f2.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\f2.pdb
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.csproj.GenerateResource.cache
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.GeneratedMSBuildEditorConfig.editorconfig
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.AssemblyInfoInputs.cache
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.AssemblyInfo.cs
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.csproj.CoreCompileInputs.cache
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.dll
+H:\IT\f2\f2\obj\Debug\net6.0-windows\refint\f2.dll
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.pdb
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.genruntimeconfig.cache
+H:\IT\f2\f2\obj\Debug\net6.0-windows\ref\f2.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.csproj.AssemblyReference.cache
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.HomePage.resources
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.LogIn.resources
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.Register.resources
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.csproj.CopyComplete
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Azure.Core.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Azure.Identity.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\System.Memory.Data.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+H:\IT\f2\f2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\IT\f2\f2\obj\Debug\net6.0-windows\f2.Properties.Resources.resources
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\f2.exe
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\f2.deps.json
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\f2.runtimeconfig.json
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\f2.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\f2.pdb
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Azure.Core.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Azure.Identity.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\System.Memory.Data.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\IT\Informatics Final Project\f2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.csproj.AssemblyReference.cache
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.HomePage.resources
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.LogIn.resources
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.Properties.Resources.resources
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.Register.resources
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.csproj.GenerateResource.cache
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.GeneratedMSBuildEditorConfig.editorconfig
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.AssemblyInfoInputs.cache
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.AssemblyInfo.cs
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.csproj.CoreCompileInputs.cache
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.csproj.CopyComplete
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.dll
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\refint\f2.dll
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.pdb
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\f2.genruntimeconfig.cache
+H:\IT\Informatics Final Project\f2\obj\Debug\net6.0-windows\ref\f2.dll
